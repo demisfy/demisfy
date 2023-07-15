@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngKelly
 - 👀 I’m interested in Developing full softwares with Dotnet, Angular and NestJs.
 - 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on developing apps on Dotnet, NestJs, Angular
+- 💞️ I’m looking to collaborate on developing apps with Dotnet, NestJs, Angular
 - 📫 How to reach me: holla me @kellyncodes. 
 
 <!---
