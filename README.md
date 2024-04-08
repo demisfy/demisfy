@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EngKelly
-- 👀 I’m interested in Developing full softwares with Dotnet, Angular and NestJs.
-- 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on developing apps with Dotnet, NestJs, Angular
-- 📫 How to reach me: holla me @kellyncodes. 
+- 👋 Hi, I’m Kelly
+- 👀 I’m interested in Developing full-stack softwares with Dotnet, Angular and NestJs.
+- 🌱 I’m currently improving my DSA skills.
+- 💞️ Always depend on paper first trying to find out the best solution before diving into coding.
+- 📫 How to reach me: holla me @kellyncodes on all platform you can think of. 
 
 <!---
 EngKelly/EngKelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
